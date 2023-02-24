@@ -32,7 +32,7 @@ project that is created. You should create a new Git repository, and commit
 all files not excluded by the `.gitignore` file.
 
 ## What does the template do?
-
+ 
 When installing the given `composer.json` some tasks are taken care of:
 
 * Drupal will be installed in the `web`-directory.
